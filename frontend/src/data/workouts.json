@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "leg",
+        "date": "18 Jan 2025",
+        "notes": "temporary notes",
+        "exercises": [
+            {
+                "exercise_id": "1",
+                "exercise_name": "Clean",
+                "exercise_notes": "temporary exercise notes for clean",
+                "sets": 6,
+                "reps": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    4
+                ],
+                "values": [
+                    20,
+                    40,
+                    50,
+                    55,
+                    45,
+                    40
+                ],
+                "unit": "kg"
+            },
+            {
+                "exercise_id": "2",
+                "exercise_name": "Front Squat",
+                "exercise_notes": "temporary exercise notes for front squat",
+                "sets": 4,
+                "reps": [
+                    5,
+                    5,
+                    5,
+                    5
+                ],
+                "values": [
+                    60,
+                    60,
+                    60,
+                    60
+                ],
+                "unit": "kg"
+            }
+        ]
+    }
+]
